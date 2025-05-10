@@ -7,7 +7,7 @@ You can:
 - Toggle the rendering of shadows with F2
 - Cycle through the different lighting modes with F3
 
-In this project I used std::execution::par when rendering individual pixels to achieve better performance.
+In this project I used `std::execution::par` when rendering individual pixels to achieve better performance.
 
 Sample screenshots:
 
