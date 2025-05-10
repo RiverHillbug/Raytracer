@@ -8,6 +8,7 @@ You can:
 - Cycle through the different lighting modes with F3
 
 In this project I used `std::execution::par` when rendering individual pixels to achieve better performance.
+Working on this raytracer gave me a much better understanding of math concepts like vector math, dot products and matrix calculations (used for camera movement).
 
 Sample screenshots:
 
