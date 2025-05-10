@@ -1,6 +1,6 @@
 # Raytracer
 
-This is a basic raytracer that can render planes, spheres, and 3D models.
+This is a basic raytracer that can render planes, spheres, and 3D models. It also supports point lights and directional lights.
 
 You can:
 - Move the camera with WASD
